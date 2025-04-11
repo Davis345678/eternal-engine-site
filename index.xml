@@ -2,17 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>The Eternal Engine</title>
-    <link>https://Davis345678.github.io/eternal-engine-site/</link>
+    <link>http://localhost:1313/eternal-engine-site/</link>
     <description>Recent content on The Eternal Engine</description>
     <generator>Hugo -- 0.134.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://Davis345678.github.io/eternal-engine-site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/eternal-engine-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1142, Part 1 (Thread #1289)</title>
+      <link>http://localhost:1313/eternal-engine-site/posts/2025-04-11-rworldnews-live-thread-russ/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eternal-engine-site/posts/2025-04-11-rworldnews-live-thread-russ/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;This is a fallback article due to generation failure.&lt;/p&gt;
+&lt;h2 id=&#34;main-body&#34;&gt;Main Body&lt;/h2&gt;
+&lt;p&gt;We&amp;rsquo;ll have more trending content soon!&lt;/p&gt;
+&lt;h1 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;Stay tuned for updates.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Global News Update</title>
+      <link>http://localhost:1313/eternal-engine-site/posts/2025-04-10-global-news-update/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eternal-engine-site/posts/2025-04-10-global-news-update/</guid>
+      <description>&lt;p&gt;Title: Global News Update: A Comprehensive Roundup of World Events&lt;/p&gt;
+&lt;p&gt;In the ever-evolving landscape of our world, it is essential to stay informed about the latest global news updates. This brief roundup aims to bring you a compact yet comprehensive summary of significant events happening around the globe.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Climate Change: The United Nations (UN) COP26 summit concluded in Glasgow, Scotland, with 197 countries agreeing on steps to combat climate change. Notable commitments include phasing out coal and reducing methane emissions.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>TRUMP Pauses Reciprocal Tariffs for 90 Days for Everyone but China</title>
-      <link>https://Davis345678.github.io/eternal-engine-site/posts/first-post/</link>
+      <link>http://localhost:1313/eternal-engine-site/posts/first-post/</link>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://Davis345678.github.io/eternal-engine-site/posts/first-post/</guid>
+      <guid>http://localhost:1313/eternal-engine-site/posts/first-post/</guid>
       <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;The recent decision by TRUMP to pause reciprocal tariffs&amp;hellip;&lt;/p&gt;
 &lt;h2 id=&#34;main-body&#34;&gt;Main Body&lt;/h2&gt;
